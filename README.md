@@ -17,6 +17,7 @@ collect2: error: ld returned 1 exit status
 exit status 1
 ```
 
-This repository shows how to avoid this error and communicate with a MMA7660 without using the Wire library.
+This repository shows how to communicate with a MMA7660 using Mozzi's own I2C communication library instead of Arduino's Wire library.
 
-For more details see [here](https://newscrewdriver.com/2019/07/23/aborted-attempt-at-arduino-accelerometer-mozzi-mma7660/).
+For more details see the writeups [Part 1](https://newscrewdriver.com/2019/07/23/aborted-attempt-at-arduino-accelerometer-mozzi-mma7660/)
+and [Part 2](https://newscrewdriver.com/2019/07/30/second-attempt-success-mozzi-mma7660/).
