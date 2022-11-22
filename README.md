@@ -28,5 +28,5 @@ and [Part 2](https://newscrewdriver.com/2019/07/30/second-attempt-success-mozzi-
 ## More
 
 * [__Mozzi_MPU6050__](https://github.com/algomusic/Mozzi_MPU6050):
-@algomusic adapted this example to use MPU6050 accelerometer. Heard through
-[Mozzi-users Google Group](https://groups.google.com/g/mozzi-users/c/vnPNIInrD88/m/fvc1XDk1CwAJ)
+@algomusic adapted this example to use MPU6050 accelerometer. Found on
+[Mozzi-users Google Group](https://groups.google.com/g/mozzi-users/c/vnPNIInrD88/m/fvc1XDk1CwAJ) by @emilyvelasco
