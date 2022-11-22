@@ -18,6 +18,15 @@ exit status 1
 ```
 
 This repository shows how to communicate with a MMA7660 using Mozzi's own I2C communication library instead of Arduino's Wire library.
+All the changes to switch from ADXL345 to MMA7660 has been
+[squashed into a single commit](https://github.com/Roger-random/Mozzi_MMA7660/commit/67f0d38209dffe1e35d3374c59134d74bae5151b)
+for easier reference.
 
 For more details see the writeups [Part 1](https://newscrewdriver.com/2019/07/23/aborted-attempt-at-arduino-accelerometer-mozzi-mma7660/)
 and [Part 2](https://newscrewdriver.com/2019/07/30/second-attempt-success-mozzi-mma7660/).
+
+## More
+
+* [__Mozzi_MPU6050__](https://github.com/algomusic/Mozzi_MPU6050):
+@algomusic adapted this example to use MPU6050 accelerometer. Heard through
+[Mozzi-users Google Group](https://groups.google.com/g/mozzi-users/c/vnPNIInrD88/m/fvc1XDk1CwAJ)
